@@ -1,0 +1,14 @@
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.exe
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.deps.json
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.runtimeconfig.json
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.dll
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\bin\Debug\net10.0\ConsoleApp10.pdb
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.dll
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\refint\ConsoleApp10.dll
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.pdb
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ConsoleApp10.genruntimeconfig.cache
+C:\Users\KubaK\Desktop\Zadanie 1.2\ConsoleApp10\ConsoleApp10\obj\Debug\net10.0\ref\ConsoleApp10.dll
