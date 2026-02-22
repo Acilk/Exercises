@@ -1,0 +1,15 @@
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.exe
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.deps.json
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.runtimeconfig.json
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.dll
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\bin\Debug\net10.0\ConsoleApp4.pdb
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.AssemblyInfoInputs.cache
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.AssemblyInfo.cs
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.sourcelink.json
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.dll
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\refint\ConsoleApp4.dll
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.pdb
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ConsoleApp4.genruntimeconfig.cache
+C:\Users\KubaK\Desktop\Repositories\Exercises\Exercise_1.3_arrays\ConsoleApp4\ConsoleApp4\obj\Debug\net10.0\ref\ConsoleApp4.dll
