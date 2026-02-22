@@ -9,7 +9,6 @@ class Program
     {
         int number = 0;
 
-        int index = 0;
         int[] binaryNumbers = new int[32];
 
         Console.WriteLine("Please, enter a integer to binary convert: ");
@@ -21,21 +20,18 @@ class Program
 
         int n = Math.Abs(number);
 
-        if(n == 0)
+       
+        
+        for(int i = 0; i < 32; i++)
         {
-            binaryNumbers[index++] = 0;
+            binaryNumbers[i] = n % 2;
+            n /= 2;
         }
-        else
-        {
-            while (n > 0 && index < 32)
-            {
-                binaryNumbers[index] = n % 2;
-                n = n / 2;
-                index++;
-            }
-        }    
+        
 
-        if(number >= 0)
+
+        Console.Write("ZM: ");
+        if (number >= 0)
         {
             Console.Write("0.");
         }
@@ -44,13 +40,63 @@ class Program
             Console.Write("1.");
         }
 
-        for(int i = index - 1; i >= 0; i--)
+        for(int i = 31; i >= 0; i--)
         {
             Console.Write(binaryNumbers[i]);
         }
         
-        
+        if(number < 0)
+        {
+            int[] zu1 = new int[32];
+            int[] zu2 = new int[32];
 
+            Array.Copy(binaryNumbers, zu1, 32);
+            Array.Copy(binaryNumbers, zu2, 32);
+
+            for (int i = 0; i < 32; i++)
+            {
+                if(zu1[i] == 0)
+                {
+                    zu1[i] = 1;
+                }
+                else if(zu1[i] == 1)
+                {
+                    zu1[i] = 0;
+                }
+            }
+
+            Console.WriteLine();
+            Console.Write("ZU1:  ");
+            for (int i = 31; i >= 0; i--)
+            {
+                Console.Write(zu1[i]);
+            }
+
+            for(int i = 0; i < 32; i++)
+            {
+                zu2[i] = zu1[i];
+            }
+
+            for(int i = 0; i < 32; i++)
+            {
+                if(zu2[i] == 0)
+                {
+                    zu2[i] = 1;
+                    break;
+                }
+                else
+                {
+                    zu2[i] = 0;
+                }
+            }
+
+            Console.WriteLine();
+            Console.Write("ZU2:  ");
+            for(int i = 31; i >= 0; i--)
+            {
+                Console.Write(zu2[i]);
+            }
+        }
 
     }
 }
